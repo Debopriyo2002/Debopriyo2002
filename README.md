@@ -25,5 +25,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" alt="NODEJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="REACT" height="40" style="vertical-align:top; margin:4px">
-<img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" height="46" style="vertical-align:top; margin:4px">
 </p>
