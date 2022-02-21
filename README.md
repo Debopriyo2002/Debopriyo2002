@@ -1,4 +1,7 @@
-### Hi there I am Debopriyo Paul Chowdhury 👋
+### Hi there 👋 I am Debopriyo...
+
+
+### I am BCA Student at Christ Deemed to be University of Delhi- NCR
 
 - 🌱 I’m currently learning ...Java Script
 - 💬 Ask me about ...any tech related stuff
