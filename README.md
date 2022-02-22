@@ -31,5 +31,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="REACT" height="40" style="vertical-align:top; margin:4px">
 <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" height="46" style="vertical-align:top; margin:4px">
 <a href="https://www.hackerrank.com/debopriyochowdh1" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
-<img src="http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+<img src="https://img.favpng.com/11/22/24/tux-linux-ubuntu-logo-computer-icons-png-favpng-KQnK5LfrnkWvbNqQPYzgPNeFs.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
