@@ -29,9 +29,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" alt="NODEJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="REACT" height="40" style="vertical-align:top; margin:4px">
-<img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" height="46" style="vertical-align:top; margin:4px">
+<img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" height="50" style="vertical-align:top; margin:4px">
 <a href="https://www.hackerrank.com/debopriyochowdh1" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="Mysql" height="46" style="vertical-align:top; margin:4px">
-<img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="Linux" height="46" style="vertical-align:top; margin:4px">
-<img src="https://i1.pnghost.com/4/2/18/pngdb-linux-kali-backtrack-distribution-offensive-security-certified-professional-png-dP8edPvs9PhCUHzRnWemJXbqh_t.jpg" alt="KLinux" height="46" style="vertical-align:top; margin:4px">
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="Mysql" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+
 </p>
