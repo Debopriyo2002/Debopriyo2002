@@ -33,5 +33,5 @@
 <a href="https://www.hackerrank.com/debopriyochowdh1" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="Mysql" height="46" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="Linux" height="46" style="vertical-align:top; margin:4px">
-<img src="https://w7.pngwing.com/pngs/274/372/png-transparent-kali-linux-backtrack-linux-distribution-offensive-security-certified-professional-linux-blue-text-logo-thumbnail.png" alt="KLinux" height="46" style="vertical-align:top; margin:4px">
+<img src="https://i1.pnghost.com/4/2/18/pngdb-linux-kali-backtrack-distribution-offensive-security-certified-professional-png-dP8edPvs9PhCUHzRnWemJXbqh_t.jpg" alt="KLinux" height="46" style="vertical-align:top; margin:4px">
 </p>
