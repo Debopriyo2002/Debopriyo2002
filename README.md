@@ -1,5 +1,5 @@
 # Hi there 👋 I am Debopriyo...
-
+<br />
 
 ### I am BCA Student at Christ Deemed to be University of Delhi- NCR
 
@@ -15,10 +15,8 @@
  <a href="https://github.com/Debopriyo2002" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://linkedin.com/in/debopriyo-paul-chowdhury-a63667225/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:debopriyo.paul@bca.christuniversity.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-
  </p>
 
-<br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -36,3 +34,4 @@
 <a href="https://www.hackerrank.com/debopriyochowdh1" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 </p>
+
