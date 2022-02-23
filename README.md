@@ -32,4 +32,5 @@
 <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" height="46" style="vertical-align:top; margin:4px">
 <a href="https://www.hackerrank.com/debopriyochowdh1" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="Mysql" height="46" style="vertical-align:top; margin:4px">
+<img src="http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" alt="Linux" height="46" style="vertical-align:top; margin:4px">
 </p>
