@@ -12,9 +12,10 @@
 
 
 <p align="center">
- <a href="https://github.com/Debopriyo2002" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/debopriyo-paul-chowdhury-a63667225/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:debopriyo.paul@bca.christuniversity.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/Debopriyo2002" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Python" height="40" style="vertical-align:top; margin:6px"> </a>
+ <a href="https://www.linkedin.com/in/debopriyo2002/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:7px"></a>
+ <a href="https://www.hackerrank.com/debopriyochowdh1" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="Python" height="40" style="vertical-align:top; margin:8px"> </a>
+ <a href="mailto:debopriyo.paul@bca.christuniversity.com"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Python" height="40" style="vertical-align:top; margin:3px"></a>
  </p>
 
 
@@ -31,7 +32,6 @@
 <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" alt="NODEJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="REACT" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" height="40" style="vertical-align:top; margin:4px">
-<a href="https://www.hackerrank.com/debopriyochowdh1" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="40" style="vertical-align:top; margin:4px">
 </p>
