@@ -33,5 +33,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" height="40" style="vertical-align:top; margin:4px">
 <a href="https://www.hackerrank.com/debopriyochowdh1" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
