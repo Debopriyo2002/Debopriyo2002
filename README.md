@@ -1,4 +1,4 @@
-# Hi there 👋 I am Debopriyo...
+# <p align="center"> Hi there 👋 I am Debopriyo...</p>
 <br />
 
 ### I am BCA Student at Christ Deemed to be University of Delhi- NCR
