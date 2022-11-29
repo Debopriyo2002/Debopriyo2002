@@ -21,7 +21,7 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="Mysql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
