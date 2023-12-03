@@ -31,7 +31,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" alt="NODEJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="REACT" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="40" style="vertical-align:top; margin:4px">
 </p>
