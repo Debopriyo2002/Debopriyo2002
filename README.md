@@ -3,7 +3,7 @@
 
 ### I am BCA Student at Christ Deemed to be University of Delhi- NCR
 
-- 🌱 I’m currently learning ...Java Script
+
 - 💬 Ask me about ...any tech related stuff
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I do a lot of stuff
